@@ -21,6 +21,8 @@ module.exports = {
         navbg: "url(/src/assets/backgroundText/navBckg.png)",
         steamer: "url(/src/assets/aboutSteamers.png)",
         banner: "url(/src/assets/banner.png)",
+        economy: "url(src/assets/backgroundText/token-economy-bg.jpg)",
+        spiral: "url(src/assets/spiral.png)",
       },
     },
   },
